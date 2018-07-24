@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/shubhangighosh/shubhangighosh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a final year B.Tech student in the Department of Electrical Engineering at Indian Institute of Technology Madras. My research interests primarily lie in Machine Learning. I am currently working on projects in the domains of Time Series Forecasting and Natural Language Processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Academic Timeline
 
-### Markdown
+Here's a brief overview of the projects I have worked on and the places I have been to over the past few years.
+## 1. May - Jul 2018
+Worked on a Time Series Forecasting problem in **Nanyang Technological University**, School of Computer Science and Engineering. 
+[REPORT](https://drive.google.com/file/d/1pM63CsU8RHrbg8N--oIYJ94Wn8E8RW1Q/view?usp=sharing)
+Guide: [Prof.Suresh Sundaram](http://www.ntu.edu.sg/home/ssundaram/)
+## 2. Jan - Apr 2018
+Worked on a project involving Automatic Extraction of Definitional Sentences in **IIT Madras**, Dept. of Computer Science and Engineering. 
+[REPORT](https://drive.google.com/file/d/1q4IZKzdWZb6PnZieDvLlkn6MnnUO4JSA/view?usp=sharing)
+Guide: [Prof.Sutanu Chakraborti] (http://www.cse.iitm.ac.in/~sutanuc/)
+## 3. Jan 2018 - Present
+Working on a Low Resource Acoustic Modelling project involving Automatic Extraction of Definitional Sentences in **IIT Madras**, Dept. of Electrical Engineering. 
+Guide: [Prof.S.Umesh](http://www.ee.iitm.ac.in/~umeshs/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shubhangighosh/shubhangighosh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Contact
+ee15b129@smail.iitm.ac.in
+riafc34@gmail.com
