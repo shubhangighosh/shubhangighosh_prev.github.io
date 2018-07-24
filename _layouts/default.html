@@ -29,10 +29,10 @@
     </header>
 
     <div id="content-wrapper">
-      <div class="inner clearfix">
+      <div class="inner clearfix row">
         
 
-        <aside id="sidebar">
+        <aside id="sidebar" class="col-md-6 col-md-push-6">
           <img src= "{{ site.url }}/assets/images/profilePhoto.png" alt="Profile Picture" style="border-radius:50%; width: 50%; height: 50%;">
           <a href="{{ site.github.owner_url }}" class="button">
             Github
@@ -55,7 +55,7 @@
           
         </aside>
         
-        <section id="main-content">
+        <section id="main-content" class="col-md-6 col-md-pull-6">
           {{ content }}
         </section>
       </div>
