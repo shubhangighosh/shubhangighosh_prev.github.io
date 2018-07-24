@@ -6,17 +6,17 @@ I am a final year B.Tech student in the Department of Electrical Engineering at 
 
 Here's a brief overview of the projects I have worked on and the places I have been to over the past few years.
 ## 1. May - Jul 2018
-Worked on a Time Series Forecasting problem in **Nanyang Technological University**, School of Computer Science and Engineering. 
-[REPORT](https://drive.google.com/file/d/1pM63CsU8RHrbg8N--oIYJ94Wn8E8RW1Q/view?usp=sharing)
+Worked on a Time Series Forecasting problem in **Nanyang Technological University**, School of Computer Science and Engineering. \
+[REPORT](https://drive.google.com/file/d/1pM63CsU8RHrbg8N--oIYJ94Wn8E8RW1Q/view?usp=sharing)\
 Guide: [Prof.Suresh Sundaram](http://www.ntu.edu.sg/home/ssundaram/)
 ## 2. Jan - Apr 2018
-Worked on a project involving Automatic Extraction of Definitional Sentences in **IIT Madras**, Dept. of Computer Science and Engineering. 
-[REPORT](https://drive.google.com/file/d/1q4IZKzdWZb6PnZieDvLlkn6MnnUO4JSA/view?usp=sharing)
-Guide: [Prof.Sutanu Chakraborti] (http://www.cse.iitm.ac.in/~sutanuc/)
+Worked on a project involving Automatic Extraction of Definitional Sentences in **IIT Madras**, Dept. of Computer Science and Engineering. \
+[REPORT](https://drive.google.com/file/d/1q4IZKzdWZb6PnZieDvLlkn6MnnUO4JSA/view?usp=sharing)\
+Guide: [Prof.Sutanu Chakraborti](http://www.cse.iitm.ac.in/~sutanuc/)
 ## 3. Jan 2018 - Present
-Working on a Low Resource Acoustic Modelling project involving Automatic Extraction of Definitional Sentences in **IIT Madras**, Dept. of Electrical Engineering. 
+Working on a Low Resource Acoustic Modelling project involving Automatic Extraction of Definitional Sentences in **IIT Madras**, Dept. of Electrical Engineering. \
 Guide: [Prof.S.Umesh](http://www.ee.iitm.ac.in/~umeshs/)
 
 # Contact
-ee15b129@smail.iitm.ac.in
+ee15b129@smail.iitm.ac.in\
 riafc34@gmail.com
