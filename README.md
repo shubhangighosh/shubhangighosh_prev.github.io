@@ -1,4 +1,4 @@
-<title>Shubhangi Ghosh</title>
+<title>Shubhangi Ghosh</title><br/>
 # About Me
 
 I am a final year B.Tech student in the Department of Electrical Engineering at Indian Institute of Technology Madras. My research interests primarily lie in Machine Learning. I am currently working on projects in the domains of Time Series Forecasting and Natural Language Processing.
