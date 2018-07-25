@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "First Post!"
+date: 2018-07-25
 categories: general
 ---
 
