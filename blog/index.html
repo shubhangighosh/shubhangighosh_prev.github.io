@@ -1,0 +1,10 @@
+<p>This is where I write about things that I find insightful! Hope you find something that interests you.</p>
+</br>
+<h1>Posts</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
